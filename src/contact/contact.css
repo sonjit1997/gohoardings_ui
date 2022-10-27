@@ -1,0 +1,22 @@
+.heading {
+    font-size: 60px;
+    color: transparent;
+    -webkit-text-stroke: transparent;
+    background-color: rgb(0, 0, 0);
+    -webkit-background-clip: text;
+}
+.text {
+    background-color: rgb(233, 233, 233);
+}
+html {
+    background-color: rgb(233, 233, 233);
+}
+.card {
+    margin-top: 26%;
+    margin-left: 4%;
+    box-shadow: 0 4px 4px gray;
+
+}
+label {
+    padding-left: 5px;
+}
